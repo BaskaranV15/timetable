@@ -129,4 +129,4 @@ Execute the program
 </html>>
 ```
 # OUPUT
-[output](table.png)
+[outputs](table.png)
